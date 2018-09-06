@@ -6,7 +6,7 @@
  [下载地址](http://www.androiddevtools.cn/#apk-decompile-tools) 。我没有使用这里的反编译工具，而是使用的[Apk改之理](https://pan.baidu.com/s/1pL133BH)。
 
 用Android Studio编写一个简单的小项目下一章使用。
-![功能样式](https://img-blog.csdn.net/2018090611235978?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI2NDEzMjQ5/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![功能样式](https://github.com/Reginer/Crack/blob/master/chapter1/chapter1.png)
 
 ```
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
