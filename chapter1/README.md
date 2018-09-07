@@ -3,7 +3,7 @@
  - 开发工具Android Studio或者IntelliJ IDEA。
 [下载地址](http://www.androiddevtools.cn/#android-studio)  ，网站中也包括很多其他工具的下载。
  - 反编译工具
- [下载地址](http://www.androiddevtools.cn/#apk-decompile-tools) 。我没有使用这里的反编译工具，而是使用的[Apk改之理](https://pan.baidu.com/s/1pL133BH)。
+ [下载地址](http://www.androiddevtools.cn/#apk-decompile-tools) 。我没有使用这里的反编译工具，而是使用的[这个工具集合](https://pan.baidu.com/s/189CMxhVp-u20M-DKR1VWyg)。
 
 用Android Studio编写一个简单的小项目下一章使用。
 ![功能样式](https://github.com/Reginer/Crack/blob/master/chapter1/chapter1.png)
